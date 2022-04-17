@@ -1,0 +1,423 @@
+Describa la secuencia de acciones necesarias para realizar el objetico planteado. Identificar el estado incial y el estado final en cada situacion.
+
+
+A. Enviar un mensaje de vos por Whatsapp:
+
+1 agarrar el celular
+2 localizar App
+3 abrir App
+4 ir a un chat 
+5 mantener apretado con el dedo pulgar, el icono de microfono
+6 hablar
+7 dejar de mantener pulsado
+8 FIN
+
+----------------------------------------
+B. Cruzar una calle en una esquina con semaforos:
+
+1 Determinar si el semaforo esta en rojo.
+	SI, el semaforo es rojo, 		entonces, paso 1
+	NO, entonces, paso 2
+2 Comprobar si el semaforo de cruze esta en blanco
+	SI, entonves, paso 3
+	NO, entonces, paso 2
+3 Evaluar si hay autos en movimineto
+	SI, esperar 
+	NO, paso 4
+4 Avanzar haceia adelante
+5 FIN
+----------------------------------------
+----------------------------------------
+C. Lavarse las manos:
+
+1 levantar la mano derecha
+	SI, es derecho, entonces (paso 		2)
+	NO,  es surdo, sigue al (paso 3)
+2 Apoyar la mano en la llave del agua fria (paso 4) 
+3 Apoyar la mano en la llave del agua caliente (paso 4)
+4 Girar la llave del agua caliente
+	 SI, es agua caliente, girar 			hacia la izquierda (paso 6)
+	NO, entonces es el agua fria,			(paso 5)
+5 Girar la llave hacia la derecha (paso 6)
+6 Agarrar el javon
+7 FIN
+----------------------------------------
+----------------------------------------
+D. Preparar un mate: 
+
+1_Agarrar la yerba
+2_abrirla 
+3_vertir la yerba en el mate
+5_Agarrar la pava
+6_Llenar de agua la pava
+7_Abrir el gas
+8_Prender la hornalla
+9_Determinar si el agua esta caliente
+	SI; entonces sacar el agua 			(paso 10)
+	NO; volver al (paso 9)
+10_Vertir el agua en el mate
+	Verificar si el agua rebalsa del 	mate
+	SI; entonces parar (paso 11) 
+	NO; seguir hasta llenar (paso 			12)
+11_ Limpiar y volver al (paso 1)
+12_ FIN
+----------------------------------------	
+----------------------------------------
+E. Realizar una publicacion en instagram-
+----------------------------------------	
+----------------------------------------
+F. Destapar una botella de cerveza:
+
+1_Agarrar la botella de cerveza
+2_Agarrar el destapador
+3_Destapar
+4_FIN
+----------------------------------------	
+----------------------------------------
+G. Poner una alarma en el reloj del celular
+1_Tomar el celular
+2_Encontrar la App de reloj
+	Determinar si es la App
+	SI; entonces seguir al (paso 3)
+	NO; volver al (paso 2)
+3_Elejir hora deseada
+4_Elejiir minutos deseados
+5_Elejir dia de alarma
+6_FIN
+----------------------------------------	
+----------------------------------------
+H. Resolver la siguiente operacion 4+2*3:
+
+1_Multiplicar dos por tres
+2_Hacer la adicion entre cuatro y el resultado de la multiplicacion
+3_FIN
+----------------------------------------	
+----------------------------------------
+I. Pintar una pared:
+
+1_Buscar pinsel
+	Determinar si es mi minsel
+	SI; entonces seguir al (paso 2)
+	NO; volver al (paso 1)
+2_Buscar balde de pintura
+	Determinar si hay balde de 		pintura
+	SI; entonces seguir al (paso 3)
+	NO; volver al (paso 2)	
+3_Mojar el pinsel en balde de pintura
+3_Sacar el pinsel del balde de pintura
+4_Buscar pared
+	Determinar si es la pared que 		quiero pintar
+	SI; entonces seguir al (paso 5)
+	NO; volver al (paso 4)
+5_Colocar el pinsel contra la pared
+6_Mover el pinsel de arriba a abajo 
+7_FIN
+----------------------------------------	
+----------------------------------------
+J. Comprar una entrada de cine por Internet:
+
+1_Ir a Google
+2_Buscar paguina web de entradas
+	Determinar si es la pagina que 	quiero
+	SI; entonces seguir al (paso 3)
+	NO; volver al (paso 1)
+3_Buscar que pelicula hay
+	Determinar si hay una pelicula 	que me guste
+	SI; entonces seguir al (paso 4)
+	NO; volver al (paso 3)
+4_Elejir Dia 
+	Determinar si se puede el Lunes
+	SI; seguir al (paso 5)
+	NO; volver al (paso 4)
+5_Comprar Entrada
+6_FIN
+----------------------------------------	
+----------------------------------------
+K. Separar el cuatro de copas de un conjunto de naipes:
+
+1_Agarrar maso de cartas de naipes
+2_Tomar una carta del maso de naipes
+	Verificar que sea el cuatro 
+	SI; FIN
+	NO; seguir al (paso 3)
+3_ERROR(no existe el cuatro de copas en un maso de naipes)
+----------------------------------------	
+----------------------------------------
+L. Buscar la menor carta de un mazo de naipes, que pueden no estar completo
+
+1_Agarrar el maso de cartas de naipes
+2_Tomar una carta 
+	Determinar si es el uno de Picas
+	SI; entonces siguir al (paso 3)
+	NO; poner carta en el maso y 	volver al (paso 2)
+3_Dejar el uno de picas en la mesa
+4_Tomar una carta 
+	Determinar si es el uno de 		Corazones
+	SI; entonces seguir al (paso 5)	
+	NO; poner carta en el maso y 		volver al (paso 4)
+5_Dejar el uno de Corazones con el uno de Picas en la mesa
+6_Tomar una carta
+	Determinar si es el uno de 			Rombos
+	SI; entonves seguir al (paso 7)
+	NO; poner carta en el maso y 			volver al (paso 6)
+7_Dejar el uno de Rombos con el uno de Picas y el uno de Corazones
+8_Tomar una carta
+	Determinar si es el uno de 		Treboles
+	SI; entonces seguir al (paso 9)
+	NO; poner carta en el masol y 		volver al (paso 8)
+9_Dejar el uno de Treboles con el uno de Corazones, el uno de Pica y el uno de Rombos
+10_FIN
+----------------------------------------	
+----------------------------------------
+M. Ordenar un conjunto de naipes
+
+
+1_Agarrar cartas
+	Determinar si es Pica
+	SI; entonces separar y (paso 1)
+	NO;  dejar carta en el 	maso e 			ir al (paso 2)
+-----
+agarro cartas y separo las cartas de Pica (12 cartas)
+-----
+2_ Agarrar carta
+	Determinar si es Corazones
+	SI; entonces separar y (paso 2)
+	NO; dejar carta en el maso e ir 		al (paso 3)
+----
+agarro cartas y separo las cartas de Corazones (12 cartas)
+----
+3_Agarrar carta 
+	Determinar si es Rombos
+	SI; entonces separary (paso 3)
+	NO;  dejar carta en el maso e ir 	al (paso 4)
+---
+agarro cartas y separo las cartas de Rombos (12 cartas)
+---
+4_Agarrar carta 
+	Determinar si es Treboles
+	SI; entonces separary (paso 4)
+	NO; dejar carta en el maso e ir 		al (paso 5)
+---
+agarro cartas y separo las cartas de Treboles (12 cartas)
+---
+---
+cada palo esta separado
+---
+5_Agarar maso de cartas de Pica
+	Determinar si la carta es uno
+	SI; entonces es la primera carta 	del maso, dejar y seguir al 			(paso 6)
+	NO; volver a poner en el maso y 		volver al (paso 5)
+6_Agarrar maso de cartas de Pica
+	Determinar si la carta es dos
+	SI; entonces es la segunda 			carta del maso, dejar y seguir 			al (paso 7) 
+	NO; volver a poner en el maso y 		volver al (paso 6)
+7_Agarrar maso de cartas de Pica
+	Determinar si la carta es tres
+	SI; entonces es la tercera 			carta del maso, dejar y seguir 			al (paso 8) 
+	NO; volver a poner en el maso y 		volver al (paso 7)
+8_Agarrar maso de cartas de Pica
+	Determinar si la carta es cuatro
+	SI; entonces es la cuarta 			carta del maso, dejar y seguir 			al (paso 9) 
+	NO; volver a poner en el maso y 		volver al (paso 8)
+9_Agarrar maso de cartas de Pica
+	Determinar si la carta es cinco
+	SI; entonces es la quinta 			carta del maso, dejar y seguir 			al (paso 10) 
+	NO; volver a poner en el maso y 		volver al (paso 9)
+10_Agarrar maso de cartas de Pica
+	Determinar si la carta es seis
+	SI; entonces es la sexta 			carta del maso, dejar y seguir 			al (paso 11) 
+	NO; volver a poner en el maso y 		volver al (paso 10)
+11_Agarrar maso de cartas de Pica
+	Determinar si la carta es siete
+	SI; entonces es la septima 			carta del maso, dejar y seguir 			al (paso 12) 
+	NO; volver a poner en el maso y 		volver al (paso 11)
+12_Agarrar maso de cartas de Pica
+	Determinar si la carta es ocho
+	SI; entonces es la octava 			carta del maso, dejar y seguir 			al (paso 13) 
+	NO; volver a poner en el maso y 		volver al (paso 12)
+13_Agarrar maso de cartas de Pica
+	Determinar si la carta es nueve
+	SI; entonces es la novena 			carta del maso, dejar y seguir 			al (paso 14) 
+	NO; volver a poner en el maso y 		volver al (paso 13)
+14_Agarrar maso de cartas de Pica
+	Determinar si la carta es diez
+	SI; entonces es la desima 			carta del maso, dejar y seguir 			al (paso 15) 
+	NO; volver a poner en el maso y 		volver al (paso 14)
+15_Agarrar maso de cartas de Pica
+	Determinar si la carta es jota
+	SI; entonces es la onceba 			carta del maso, dejar y seguir 			al (paso 16) 
+	NO; volver a poner en el maso y 		volver al (paso 15)
+16_Agarrar maso de cartas de Pica
+	Determinar si la carta es Reina
+	SI; entonces es la vigesima 		carta del maso, dejar y seguir 		al (paso 17)
+	NO; volver a pones en el maso y 	volver al (pso 16)
+17_Determinar si la carta que me queda es el rey
+	SI; entonces es la trigesima 		carta, dejar en el maso de Picas 	y seguir al (paso 18)
+	NO; ERROR
+---
+el maso de Pica esta ordenado
+---
+18_Agarar maso de cartas de Corazones
+	Determinar si la carta es uno
+	SI; entonces es la primera carta 	del maso, dejar y seguir al 			(paso 19)
+	NO; volver a poner en el maso y 		volver al (paso 18)
+19_Agarrar maso de cartas de Corazones
+	Determinar si la carta es dos
+	SI; entonces es la segunda 			carta del maso, dejar y seguir 			al (paso 20) 
+	NO; volver a poner en el maso y 		volver al (paso 19)
+20_Agarrar maso de cartas de Corazones
+	Determinar si la carta es tres
+	SI; entonces es la tercera 			carta del maso, dejar y seguir 			al (paso 21) 
+	NO; volver a poner en el maso y 		volver al (paso 20)
+21_Agarrar maso de cartas de Corazones
+	Determinar si la carta es cuatro
+	SI; entonces es la cuarta 			carta del maso, dejar y seguir 			al (paso 22) 
+	NO; volver a poner en el maso y 		volver al (paso 21)
+22_Agarrar maso de cartas de Corazones
+	Determinar si la carta es cinco
+	SI; entonces es la quinta 			carta del maso, dejar y seguir 			al (paso 23) 
+	NO; volver a poner en el maso y 		volver al (paso 22)
+23_Agarrar maso de cartas de Corazones
+	Determinar si la carta es seis
+	SI; entonces es la sexta 			carta del maso, dejar y seguir 			al (paso 24) 
+	NO; volver a poner en el maso y 		volver al (paso 23)
+24_Agarrar maso de cartas de Corazones
+	Determinar si la carta es siete
+	SI; entonces es la septima 			carta del maso, dejar y seguir 			al (paso 25) 
+	NO; volver a poner en el maso y 		volver al (paso 24)
+25_Agarrar maso de cartas de Corazones
+	Determinar si la carta es ocho
+	SI; entonces es la octava 			carta del maso, dejar y seguir 			al (paso 26) 
+	NO; volver a poner en el maso y 		volver al (paso 25)
+26_Agarrar maso de cartas de Corazones
+	Determinar si la carta es nueve
+	SI; entonces es la novena 			carta del maso, dejar y seguir 			al (paso 27) 
+	NO; volver a poner en el maso y 		volver al (paso 26)
+27_Agarrar maso de cartas de Corazones
+	Determinar si la carta es diez
+	SI; entonces es la desima 			carta del maso, dejar y seguir 			al (paso 28) 
+	NO; volver a poner en el maso y 		volver al (paso 27)
+28_Agarrar maso de cartas de Corazones
+	Determinar si la carta es jota
+	SI; entonces es la onceba 			carta del maso, dejar y seguir 			al (paso 29) 
+	NO; volver a poner en el maso y 		volver al (paso 28)
+29_Agarrar maso de cartas de Corazones
+	Determinar si la carta es Reina
+	SI; entonces es la vigesima 			carta del maso, dejar y seguir 			al (paso 30)
+	NO; volver a pones en el maso y 		volver al (pso 29)
+30_Determinar si la carta que me queda es el rey
+	SI; entonces es la trigesima 			carta, dejar en el maso de 			Corazones y seguir al (paso 31)
+	NO; ERROR
+---
+el maso de Corazones esta ordenado
+---
+31_Agarar maso de cartas de Rombo
+	Determinar si la carta es uno
+	SI; entonces es la primera carta 	del maso, dejar y seguir al 			(paso 32)
+	NO; volver a poner en el maso y 		volver al (paso 31)
+32_Agarrar maso de cartas de Rombo
+	Determinar si la carta es dos
+	SI; entonces es la segunda 			carta del maso, dejar y seguir 			al (paso 33) 
+	NO; volver a poner en el maso y 		volver al (paso 32)
+33_Agarrar maso de cartas de Rombo
+	Determinar si la carta es tres
+	SI; entonces es la tercera 			carta del maso, dejar y seguir 			al (paso 34) 
+	NO; volver a poner en el maso y 		volver al (paso 33)
+34_Agarrar maso de cartas de Rombo
+	Determinar si la carta es cuatro
+	SI; entonces es la cuarta 			carta del maso, dejar y seguir 			al (paso 35) 
+	NO; volver a poner en el maso y 		volver al (paso 34)
+35_Agarrar maso de cartas de Rombo
+	Determinar si la carta es cinco
+	SI; entonces es la quinta 			carta del maso, dejar y seguir 			al (paso 36) 
+	NO; volver a poner en el maso y 		volver al (paso 35)
+36_Agarrar maso de cartas de Rombo
+	Determinar si la carta es seis
+	SI; entonces es la sexta 			carta del maso, dejar y seguir 			al (paso 37) 
+	NO; volver a poner en el maso y 		volver al (paso 36)
+37_Agarrar maso de cartas de Rombo
+	Determinar si la carta es siete
+	SI; entonces es la septima 			carta del maso, dejar y seguir 			al (paso 38) 
+	NO; volver a poner en el maso y 		volver al (paso 37)
+38_Agarrar maso de cartas de Rombo
+	Determinar si la carta es ocho
+	SI; entonces es la octava 			carta del maso, dejar y seguir 			al (paso 39) 
+	NO; volver a poner en el maso y 		volver al (paso 38)
+39_Agarrar maso de cartas de Rombo
+	Determinar si la carta es nueve
+	SI; entonces es la novena 			carta del maso, dejar y seguir 			al (paso 40) 
+	NO; volver a poner en el maso y 		volver al (paso 39)
+40_Agarrar maso de cartas de Rombo
+	Determinar si la carta es diez
+	SI; entonces es la desima 			carta del maso, dejar y seguir 			al (paso 41) 
+	NO; volver a poner en el maso y 		volver al (paso 40)
+41_Agarrar maso de cartas de Rombo
+	Determinar si la carta es jota
+	SI; entonces es la onceba 			carta del maso, dejar y seguir 			al (paso 42) 
+	NO; volver a poner en el maso y 		volver al (paso 41)
+42_Agarrar maso de cartas de Rombo
+	Determinar si la carta es Reina
+	SI; entonces es la vigesima 			carta del maso, dejar y seguir 			al (paso 43)
+	NO; volver a pones en el maso y 		volver al (pso 42)
+43_Determinar si la carta que me queda es el rey
+	SI; entonces es la trigesima 			carta, dejar en el maso de 			Rombo y seguir al (paso 44)
+	NO; ERROR
+---
+el maso de Rombo esta ordenado
+---
+44_Agarar maso de cartas de Treboles
+	Determinar si la carta es uno
+	SI; entonces es la primera carta 	del maso, dejar y seguir al 			(paso 45)
+	NO; volver a poner en el maso y 		volver al (paso 44)
+45_Agarrar maso de cartas de Treboles
+	Determinar si la carta es dos
+	SI; entonces es la segunda 			carta del maso, dejar y seguir 			al (paso 46) 
+	NO; volver a poner en el maso y 		volver al (paso 45)
+46_Agarrar maso de cartas de Treboles
+	Determinar si la carta es tres
+	SI; entonces es la tercera 			carta del maso, dejar y seguir 			al (paso 47) 
+	NO; volver a poner en el maso y 		volver al (paso 46)
+47_Agarrar maso de cartas de Treboles
+	Determinar si la carta es cuatro
+	SI; entonces es la cuarta 			carta del maso, dejar y seguir 			al (paso 48) 
+	NO; volver a poner en el maso y 		volver al (paso 47)
+48_Agarrar maso de cartas de Treboles
+	Determinar si la carta es cinco
+	SI; entonces es la quinta 			carta del maso, dejar y seguir 			al (paso 49) 
+	NO; volver a poner en el maso y 		volver al (paso 48)
+49_Agarrar maso de cartas de Treboles
+	Determinar si la carta es seis
+	SI; entonces es la sexta 			carta del maso, dejar y seguir 			al (paso 50) 
+	NO; volver a poner en el maso y 		volver al (paso 49)
+50_Agarrar maso de cartas de Treboles
+	Determinar si la carta es siete
+	SI; entonces es la septima 			carta del maso, dejar y seguir 			al (paso 51) 
+	NO; volver a poner en el maso y 		volver al (paso 50)
+51_Agarrar maso de cartas de Treboles
+	Determinar si la carta es ocho
+	SI; entonces es la octava 			carta del maso, dejar y seguir 			al (paso 52) 
+	NO; volver a poner en el maso y 		volver al (paso 51)
+52_Agarrar maso de cartas de Treboles
+	Determinar si la carta es nueve
+	SI; entonces es la novena 			carta del maso, dejar y seguir 			al (paso 53) 
+	NO; volver a poner en el maso y 		volver al (paso 52)
+53_Agarrar maso de cartas de Treboles
+	Determinar si la carta es diez
+	SI; entonces es la desima 			carta del maso, dejar y seguir 			al (paso 54) 
+	NO; volver a poner en el maso y 		volver al (paso 53)
+54_Agarrar maso de cartas de Treboles
+	Determinar si la carta es jota
+	SI; entonces es la onceba 			carta del maso, dejar y seguir 			al (paso 55) 
+	NO; volver a poner en el maso y 		volver al (paso 54)
+55_Agarrar maso de cartas de Treboles
+	Determinar si la carta es Reina
+	SI; entonces es la vigesima 			carta del maso, dejar y seguir 			al (paso 56)
+	NO; volver a pones en el maso y 		volver al (pso 55)
+56_Determinar si la carta que me queda es el rey
+	SI; entonces es la trigesima 			carta, dejar en el maso de 			Trebolesy seguir al (paso 57)
+	NO; ERROR
+---
+el maso de Treboles esta ordenado
+---
+57_Unir todos los masos de palos ordenados
+58_FIN
